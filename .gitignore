@@ -5,4 +5,10 @@
 .pub/
 pubspec.lock
 
+.idea/
+
 build/
+
+android/
+
+ios/
